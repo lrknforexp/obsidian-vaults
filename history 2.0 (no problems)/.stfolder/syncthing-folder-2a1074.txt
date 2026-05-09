@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: kna3d-vh3hv
+created: 2026-04-25T17:15:08-04:00

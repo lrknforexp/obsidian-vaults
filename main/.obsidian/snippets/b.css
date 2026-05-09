@@ -1,0 +1,21 @@
+.mod-cm6 .cm-editor .HyperMD-header-1 {
+padding-bottom: 20px;
+}
+.mod-cm6 .cm-editor .HyperMD-header-2 {
+padding-bottom: 20px;
+}
+.mod-cm6 .cm-editor .HyperMD-header-3 {
+padding-bottom: 20px;
+}
+.mod-cm6 .cm-editor .HyperMD-header-4 {
+padding-bottom: 20px;
+}
+.mod-cm6 .cm-editor .HyperMD-header-5 {
+padding-bottom: 20px;
+}
+.mod-cm6 .cm-editor .HyperMD-header-6 {
+padding-bottom: 20px;
+}
+
+.markdown-source-view :is(.cm-line + .cm-line):not(.HyperMD-list-line, .HyperMD-footnote, .HyperMD-codeblock, .HyperMD-callout) {
+padding-top: 20px;

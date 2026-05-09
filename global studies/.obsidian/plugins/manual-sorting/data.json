@@ -1,0 +1,14 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Racial Profiling.md",
+        "📚 Study Guide - US Amendments & UDHR.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

@@ -1,0 +1,40 @@
+.NoBorder
+
+th {
+border-left: 0 !important;
+border-right: 0 !important;
+}
+
+
+.NoBorder td:first-child {
+border-left: 0 !important;
+width: 70px !important;
+}
+
+.NoBorder {
+--metadata-display-reading: none;
+--metadata-display-editing: none;
+}
+
+
+.NoBorder td {
+font-size: 13px;
+}
+
+.NoBorder th {
+font-size: 14px;
+}
+
+
+.NoBorder {
+--table-border-width: 0px;
+--table-white-space: normal;
+--table-header-border-width:
+var(--table-border-width);
+--table-column-last-border-width:
+var(--table-border-width);
+--table-column-last-border-width:
+var(--table-border-width);
+--table-row-last-border-width:
+var(--table-border-width);
+}

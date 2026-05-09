@@ -1,0 +1,26 @@
+{
+  "obsidian-prozen:zenmode": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ContextMenu"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "dashboard-navigator:dashboard": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
+  ]
+}

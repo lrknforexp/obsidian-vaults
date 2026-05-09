@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc01c17bf4b84a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7736400c77475111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "health notes/4-23-26 grief & loss.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-23-26 grief & loss"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e8b1cae9d0497fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2304e6f1268bd294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1df1dc4be983a419",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "06482312a2bc7093",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "war of 1812",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c21d3653c41ae0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "ab4ec4697d292f25",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7da2eb3e53d28f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f5c1d76d5ab6ce2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "28d33dff7a74602a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dashboard"
+            }
+          },
+          {
+            "id": "134c207b1df496e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7279fd5451c90666",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "889aacb515d8809f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ram usage per plugin.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ram usage per plugin"
+            }
+          },
+          {
+            "id": "dae7806e6c404ac9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "iconic:Open rulebook": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7736400c77475111",
+  "lastOpenFiles": [
+    "health notes/4-23-26 grief & loss.md",
+    "math/compact_implies_closed.md",
+    "math/poincares_recurrence_theorem.md",
+    "math/practice test for njsla.md",
+    "math/polish_space.md",
+    "ztemplate/Template/callout.md",
+    "math/upward_lowenheim-skolem_theorem.md",
+    "math/topological_space.md",
+    "math/theory.md",
+    "math/tarski-vaught_test.md",
+    "math/szemeredis_theorem.md",
+    "math/skolem_theory.md",
+    "math/separable_space.md",
+    "math/preservation_of_separability.md",
+    "math/preservation_of_polish.md",
+    "math/preservation_of_compactness.md",
+    "math/pointwise_ergodic_theorem.md",
+    "math/normal_space.md",
+    "math/model.md",
+    "math/metric_space.md",
+    "math/measures_on_reals.md",
+    "math/measure-preserving_dynamical_system.md",
+    "math/measure.md",
+    "math/measurable_space.md",
+    "math/measurable_set.md",
+    "math/limitation_of_size_metric_space.md",
+    "ztemplate/Snippets/Naked Embed.css",
+    "ztemplate/Snippets/left align.css",
+    "ztemplate/left align.css",
+    "ztemplate/Naked Embed.css",
+    "ztemplate/Template",
+    "ztemplate/Snippets",
+    "ztemplate/New folder (2)",
+    "ztemplate/New folder",
+    "ztemplate",
+    "New folder",
+    "Pasted image 20260501204053.png",
+    "Pasted image 20260501195018.png",
+    "Pasted image 20260501194937.png",
+    "history/images/330px-Property_protected_à_la_françoise.jpg",
+    "history/images/330px-Property_protected_#U00e0_la_fran#U00e7oise.jpg",
+    "gcf_study_guide 4-27-26-1777335485467.webp",
+    "gcf_study_guide 4-27-26-1777335281537.webp",
+    "history/images/Alexander_Hamilton_portrait_by_John_Trumbull_1806.jpg",
+    "history/images/William_Clark-Charles_Willson_Peale.jpg",
+    "history/images/Second_Bank_United_States.jpg"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Wikipedia",
+  "accentColor": "#34373c",
+  "enabledCssSnippets": [
+    "apush-infobox"
+  ],
+  "nativeMenus": false,
+  "showRibbon": false
+}

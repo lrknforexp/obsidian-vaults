@@ -1,0 +1,13 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Welcome.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

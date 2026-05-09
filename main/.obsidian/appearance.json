@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Baseline",
+  "accentColor": "#65602f",
+  "enabledCssSnippets": [
+    "cyber-theme",
+    "a",
+    "b"
+  ],
+  "showRibbon": false,
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSize": 16
+}
